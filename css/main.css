@@ -1,0 +1,48 @@
+.row {
+  border: solid 2px #000;
+  text-align: center; }
+
+.heading {
+  height: 949px;
+  text-align: center;
+  border: 7px solid black; }
+  .heading h1 {
+    font-size: 104px;
+    padding-top: 649px;
+    padding-bottom: 146px; }
+
+.logo {
+  display: inline-block;
+  text-align: center;
+  border: 7px solid black;
+  font-size: 43px;
+  height: 222px;
+  width: 420px; }
+
+.subheading p {
+  height: 300px;
+  display: inline-block;
+  font-size: 25px;
+  padding-top: 145px;
+  padding-bottom: 132px;
+  text-align: center; }
+
+.content {
+  height: 856px; }
+  .content p {
+    font-size: 25px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 212px;
+    padding-bottom: 206px; }
+
+.footer {
+  height: 168px; }
+  .footer p {
+    font-size: 24px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 67px;
+    padding-bottom: 67px; }
+
+/*# sourceMappingURL=main.css.map */
