@@ -36,6 +36,18 @@
     padding-top: 212px;
     padding-bottom: 206px; }
 
+.hiddenpics {
+  height: 15px;
+  display: none; }
+
+.hiddenlog {
+  display: none;
+  height: 422px; }
+  .hiddenlog p {
+    font-size: 25px;
+    padding-top: 111px;
+    padding-bottom: 81px; }
+
 .footer {
   height: 168px; }
   .footer p {
